@@ -5,6 +5,7 @@
 ## Product
 
 * [Features Overview](product/features.md)
+* [Ghost AI Guide](product/ghost-guide.md)
 * [User Flows](product/user-flows.md)
 * [Screen Guide](product/screens.md)
 
@@ -16,3 +17,4 @@
 * [Chat & Messaging Tests](testing/chat-tests.md)
 * [Map & Location Tests](testing/map-tests.md)
 * [Matching Flow Tests](testing/matching-tests.md)
+
